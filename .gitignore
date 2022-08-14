@@ -1,0 +1,10 @@
+venv/
+data/
+wandb/
+
+*.pyc
+*.pyo
+.venv
+
+__pycache__/
+.vscode/
